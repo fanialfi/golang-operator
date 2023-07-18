@@ -30,5 +30,5 @@ operator yang digunakan untuk operasi perhitungan, beberapa operator aritkatika 
 |operator|keterangan|
 |--------|----------|
 |`&&`|nilai dari kiri dan kanan harus `true`|
-|`||`|salah satu nilai dari kiri atau kanan harus `true`|
+|`\|\|`|salah satu nilai dari kiri atau kanan harus `true`|
 |`!`|negasi / kebalikan|
